@@ -19,4 +19,4 @@ samples, guidance on mobile development, and a full API reference.
 
 The .apk file of the app could be found >> [here](https://github.com/natintosh/customer-support-app/blob/master/apk/app-release.apk)
 
-![Alt Text](url)
+![Alt Text](https://google.com)
