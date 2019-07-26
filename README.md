@@ -24,3 +24,5 @@ The .apk file of the app could be found >> [here](https://github.com/natintosh/c
 ![Alt Text](https://raw.githubusercontent.com/natintosh/customer-support-app/master/images/Screenshot_1564167935.png "Screen 3")
 ![Alt Text](https://raw.githubusercontent.com/natintosh/customer-support-app/master/images/Screenshot_1564167939.png "Screen 4")
 ![Alt Text](https://raw.githubusercontent.com/natintosh/customer-support-app/master/images/Screenshot_1564168029.png "Screen 5")
+
+![GitHub Logo](/images/Screenshot_1564167928.png)
