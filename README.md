@@ -17,4 +17,6 @@ samples, guidance on mobile development, and a full API reference.
 
 # About 
 
-The .apk file of the app could be found [here](https://github.com/natintosh/customer-support-app/blob/master/apk/app-release.apk)
+The .apk file of the app could be found >> [here](https://github.com/natintosh/customer-support-app/blob/master/apk/app-release.apk)
+
+![Alt Text](url)
