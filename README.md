@@ -20,3 +20,7 @@ samples, guidance on mobile development, and a full API reference.
 The .apk file of the app could be found >> [here](https://github.com/natintosh/customer-support-app/blob/master/apk/app-release.apk)
 
 ![Alt Text](https://raw.githubusercontent.com/natintosh/customer-support-app/master/images/Screenshot_1564167928.png "Screen 1")
+![Alt Text](https://raw.githubusercontent.com/natintosh/customer-support-app/master/images/Screenshot_1564167928.png "Screen 2")
+![Alt Text](https://raw.githubusercontent.com/natintosh/customer-support-app/master/images/Screenshot_1564167935.png "Screen 3")
+![Alt Text](https://raw.githubusercontent.com/natintosh/customer-support-app/master/images/Screenshot_1564167939.png "Screen 4")
+![Alt Text](https://raw.githubusercontent.com/natintosh/customer-support-app/master/images/Screenshot_1564168029.png "Screen 5")
